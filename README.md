@@ -24,14 +24,14 @@ You can now access the web vault in your browser at `https://localhost:4046`.
 
 ## Special Thanks !
 
-Chat GPT (open AI)
-Gemini (Google)
-Stackoverflow
-R Document
+- Chat GPT (open AI)
+- Gemini (Google)
+- Stackoverflow
+- R Document
 
 This project made by Group 1 - DSR301m(Mr.Hung) - FPT University include:
-DINH NGOC KHOI
-BUI THE TUAN
-LE TRAN XUAN DUNG
-NGUYEN GIA HIEN MINH
+- DINH NGOC KHOI
+- BUI THE TUAN
+- LE TRAN XUAN DUNG
+- NGUYEN GIA HIEN MINH
 
