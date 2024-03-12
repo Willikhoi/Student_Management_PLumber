@@ -1,8 +1,6 @@
 ## Build/Run
 
 ### Requirements
-
-- [Node.js](https://nodejs.org) you have to install this pakage
 - [RPlumber](https://www.rplumber.io/) 
 - SQLite
 
@@ -16,11 +14,10 @@ plumb(file='student_api.R')$run(port = 4046)
 2. Open CMD:
 
 ```
-cd C:\path\to\project
-node server.js
+python -m http.server
 ```
 
-You can now access the web vault in your browser at `https://localhost:4046`.
+You can now access the web vault in your browser at `https://localhost:8000`.
 
 ## Special Thanks !
 
